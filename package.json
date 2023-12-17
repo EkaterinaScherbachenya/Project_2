@@ -1,12 +1,11 @@
 {
-  "dependencies": {
-    "sass": "^1.69.5"
-  },
   "name": "project_2",
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "sass": "^1.69.5"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
